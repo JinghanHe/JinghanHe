@@ -94,8 +94,9 @@
 <p align="center">
   <a href="https://github.com/JinghanHe/JinghanHe?tab=MIT-1-ov-file#">
     <strong>MIT LICENSE</strong>
-	  
   </a>
 </p>
+
+[MIT license](LICENSE)
 
 ![Down](assets/down.svg)
