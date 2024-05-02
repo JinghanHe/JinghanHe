@@ -1,7 +1,6 @@
 ![](assets/up.svg)
 
 <!-- ICONS -->
-
 <p align="center">
     <a href="https://github.com/JinghanHe/JinghanHe"><img src="https://img.shields.io/badge/Status-learning-brightgreen.svg"></a>
     <a href="https://github.com/JinghanHe/JinghanHe/stargazers"><img src="https://img.shields.io/github/stars/JinghanHe/JinghanHe.svg?logo=github"></a>
@@ -16,11 +15,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+JinghanHe;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things!;)](https://git.io/typing-svg)
 
 <!-- SKILS -->
-
-<div style="text-align:center;">
-    <img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto; display:block; margin-left:auto; margin-right:auto;" />
-    <p style="margin-top:0;"><strong>About Me</strong></p>
-</div>
+<center>
+  <img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
+  <p><strong>About Me</strong></p>
+</center>
 
 
 
