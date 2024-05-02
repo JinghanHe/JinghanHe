@@ -33,7 +33,7 @@
 
 <!-- Most Used Languages -->
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=monokai&langs_count=5&layout=compact&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </div>
 
 <!-- Increased vertical space -->
@@ -41,7 +41,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=monokai&rank_icon=github"/>
 </div>
 
 <!-- Increased vertical space -->
@@ -50,7 +50,6 @@
 <!-- Stats -->
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JinghanHe&theme=monokai" alt="GitHub Streak" /></a>
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JinghanHe&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Increased vertical space -->
