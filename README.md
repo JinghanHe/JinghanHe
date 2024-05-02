@@ -16,33 +16,33 @@
 
 <!-- About Me -->
 <p align="center">
-  <img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
-  <p align="center"><strong>About Me</strong></p>
+	<img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
+ 	<p align="center"><strong>About Me</strong></p>
 </p>
 
 <!-- Email -->
 <p align="center">
-<a href="hjh_s@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/JinghanHe/JinghanHe/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+	<a href="hjh_s@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/JinghanHe/JinghanHe/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <!-- Profile Count -->
 <p align="center">
-<img src="https://profile-counter.glitch.me/JinghanHe/count.svg">
+	<img src="https://profile-counter.glitch.me/JinghanHe/count.svg">
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most Used Languages"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most Used Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
 </p>
 
 <!-- Stats -->
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=JinghanHe&theme=dark"/>
+	<img align="center" src="https://streak-stats.demolab.com/?user=JinghanHe&theme=dark" />
 </p>
 
 <!-- Skils -->
@@ -55,6 +55,7 @@
 
 <!-- Star History -->
 <p align="center">
+	<img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date"/>(https://star-history.com/#JinghanHe/JinghanHe&Date)
 [![Star History Chart](https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date)](https://star-history.com/#JinghanHe/JinghanHe&Date)
 </p>
 
