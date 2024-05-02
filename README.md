@@ -36,15 +36,24 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </div>
 
+<!-- Increased vertical space -->
+<br>
+
 <!-- GitHub Stats -->
 <div align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
 </div>
 
+<!-- Increased vertical space -->
+<br>
+
 <!-- Stats -->
 <p align="center">
 	<img align="center" src="https://streak-stats.demolab.com/?user=JinghanHe&theme=dark" />
 </p>
+
+<!-- Increased vertical space -->
+<br>
 
 <!-- Trophy -->
 <p align="center"> 
@@ -69,7 +78,7 @@
   </a>
 </p>
 
- <!-- 增加垂直空间 -->
+<!-- Increased vertical space -->
 <br>
 
 <!-- License -->
