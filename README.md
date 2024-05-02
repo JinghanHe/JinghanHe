@@ -79,11 +79,13 @@
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) |
 
 <!-- Star History -->
+<!--
 <p align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date" alt="Star History" />
   </a>
 </p>
+-->
 
 <!-- Increased vertical space -->
 <br>
