@@ -55,7 +55,7 @@
 
 <!-- Star History -->
 <p align="center">
-	<img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date"/>(https://star-history.com/#JinghanHe/JinghanHe&Date)
+	<a href="[https://github.com/ryo-ma/github-profile-trophy](https://star-history.com/#JinghanHe/JinghanHe&Date)"><img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date"/></a>
 </p>
 
 <!-- Trophy -->
