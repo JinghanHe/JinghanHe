@@ -61,6 +61,7 @@
 <!-- Trophy -->
 <div align="center">
 	<strong>Github Profile Trophy</strong>
+	<strong></strong>
 </div>
 
 <p align="center"> 
