@@ -1,4 +1,6 @@
+<!-- 
 ![Up](assets/up.svg)
+-->
 
 <!-- Profile Count -->
 <!--
@@ -7,6 +9,17 @@
 	<img src="https://profile-counter.glitch.me/JinghanHe/count.svg">
 </p>
 -->
+
+<!-- Reach Me -->
+<p align="center">
+	<img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
+ 	<p align="center"><strong>Reach Me</strong></p>
+</p>
+
+<!-- Email -->
+<p align="center">
+	<a href="hjh_s@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/JinghanHe/JinghanHe/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
 
 <!-- Icons -->
 <p align="center">
@@ -21,17 +34,6 @@
 
 <!-- Trcker -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+JinghanHe;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things!;)](https://git.io/typing-svg)
-
-<!-- About Me -->
-<p align="center">
-	<img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
- 	<p align="center"><strong>Reach Me</strong></p>
-</p>
-
-<!-- Email -->
-<p align="center">
-	<a href="hjh_s@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/JinghanHe/JinghanHe/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
 
 <!-- Most Used Languages -->
 <div align="center">
