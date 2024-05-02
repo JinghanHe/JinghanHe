@@ -36,7 +36,7 @@
 </p>
 
 <!-- Trcker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+JinghanHe;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=EB1F6A&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+there%2C+I+am+JinghanHe!;Welcome+to+my+GitHub+profile!;Always+learning+new+things!)](https://git.io/typing-svg)
 
 <!-- Most Used Languages -->
 <div align="center">
