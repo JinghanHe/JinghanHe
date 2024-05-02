@@ -27,17 +27,17 @@
   </a>
 </p>
 
+<!-- Typing -->T
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2024&color=EB1F6A&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I+am+JinghanHe!;Welcome+to+my+GitHub+profile!;Always+learning+new+things!;Let's+make+progress+together!" alt="Typing SVG" /></a>
+</p>
+
 <!-- Icons -->
 <p align="center">
 	<a href="https://github.com/JinghanHe/JinghanHe"><img src="https://img.shields.io/badge/Status-learning-brightgreen.svg"></a>
 	<a href="https://github.com/JinghanHe/JinghanHe/stargazers"><img src="https://img.shields.io/github/stars/JinghanHe/JinghanHe.svg?logo=github"></a>
 	<a href="https://github.com/JinghanHe/JinghanHe/network/members"><img src="https://img.shields.io/github/forks/JinghanHe/JinghanHe.svg?color=blue&logo=github"></a>
 	<img src="https://komarev.com/ghpvc/?username=JinghanHe")
-</p>
-
-<!-- Trcker -->
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2024&color=EB1F6A&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I+am+JinghanHe!;Welcome+to+my+GitHub+profile!;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Most Used Languages -->
