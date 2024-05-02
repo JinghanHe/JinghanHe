@@ -15,22 +15,16 @@
 </p>
 -->
 
+<!-- About Me -->
+<p align="center">
+	<img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
+</p>
+
 <!-- Reach Me -->
 <p align="center">
   <a href="mailto:hjh_s@qq.com" target="_blank" style="font-size:large; font-weight:bold;">
     Reach Me
   </a>
-</p>
-
-<!-- Reach Me -->
-<p align="center">
-	<img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
- 	<p align="center"><strong>Reach Me</strong></p>
-</p>
-
-<!-- Email -->
-<p align="center">
-	<a href="mailto:hjh_s@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/JinghanHe/JinghanHe/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <!-- Icons -->
