@@ -3,9 +3,9 @@
 <!-- Icons -->
 <p align="center">
 	<a href="https://github.com/JinghanHe/JinghanHe"><img src="https://img.shields.io/badge/Status-learning-brightgreen.svg"></a>
-    <a href="https://github.com/JinghanHe/JinghanHe/stargazers"><img src="https://img.shields.io/github/stars/JinghanHe/JinghanHe.svg?logo=github"></a>
-    <a href="https://github.com/JinghanHe/JinghanHe/network/members"><img src="https://img.shields.io/github/forks/JinghanHe/JinghanHe.svg?color=blue&logo=github"></a>
-    <img src="https://komarev.com/ghpvc/?username=JinghanHe"/>
+	<a href="https://github.com/JinghanHe/JinghanHe/stargazers"><img src="https://img.shields.io/github/stars/JinghanHe/JinghanHe.svg?logo=github"></a>
+	<a href="https://github.com/JinghanHe/JinghanHe/network/members"><img src="https://img.shields.io/github/forks/JinghanHe/JinghanHe.svg?color=blue&logo=github"></a>
+	<img src="https://komarev.com/ghpvc/?username=JinghanHe"/>
 </p>
 
 <!-- Header -->
@@ -31,10 +31,14 @@
 </p>
 
 <!-- Most Used Languages -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most Used Languages"/>
+</p>
 
 <!-- GitHub Stats -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats"/>
+</p>
 
 <!-- Stats -->
 <img align="center" src="https://streak-stats.demolab.com/?user=JinghanHe&theme=dark"/>
