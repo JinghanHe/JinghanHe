@@ -1,5 +1,11 @@
 ![Up](assets/up.svg)
 
+<!-- Profile Count -->
+<p align="center">
+	<p align="center"><strong>Profile Count</strong></p>
+	<img src="https://profile-counter.glitch.me/JinghanHe/count.svg">
+</p>
+
 <!-- Icons -->
 <p align="center">
 	<a href="https://github.com/JinghanHe/JinghanHe"><img src="https://img.shields.io/badge/Status-learning-brightgreen.svg"></a>
@@ -17,17 +23,12 @@
 <!-- About Me -->
 <p align="center">
 	<img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
- 	<p align="center"><strong>About Me</strong></p>
+ 	<p align="center"><strong>Reach Me</strong></p>
 </p>
 
 <!-- Email -->
 <p align="center">
 	<a href="hjh_s@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/JinghanHe/JinghanHe/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
-
-<!-- Profile Count -->
-<p align="center">
-	<img src="https://profile-counter.glitch.me/JinghanHe/count.svg">
 </p>
 
 <!-- Most Used Languages -->
@@ -65,9 +66,6 @@
 <p align="center">
 	<a href="[https://github.com/ryo-ma/github-profile-trophy](https://star-history.com/#JinghanHe/JinghanHe&Date)"><img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date"/></a>
 </p>
-
-
-
 
 <!-- License -->
 <p align="center">
