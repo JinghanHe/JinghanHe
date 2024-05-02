@@ -17,10 +17,8 @@
 <!-- SKILS -->
 <p align="center">
   <img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
-  <p><strong>About Me</strong></p>
+  <p align="center"><strong>About Me</strong></p>
 </p>
-
-
 
 | Property              | Data                                                         |
 | --------------------- | ------------------------------------------------------------ |
@@ -29,45 +27,22 @@
 | **CI / CD**           | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)  ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) |
 
-
-
-
-
 ### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/JInghanHe/JinghanHe/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-
+<!-- START & LANGUAGES -->
 | .                                                            | .                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=JinghanHe&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&theme=radical&layout=compact) |
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinghanHe"></img>
-
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/JinghanHe/JinghanHe/output/github-contribution-grid-snake-dark.svg)
-
-
 
 #### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/JinghanHe/count.svg">  
 
-
-
-
-
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date)](https://star-history.com/#JinghanHe/JinghanHe&Date)
-
-
-
-
 
 ### Profile Views
 
@@ -77,7 +52,7 @@ counting of visitors to this page in this section started from May 1, 2024
 
 
 
-[MIT](https://github.com/JinghanHe/JinghanHe/blob/main/LICENSE)
+[MIT LICENSE](https://github.com/JinghanHe/JinghanHe/blob/main/LICENSE)
 
 **📫 How to Reach me:**
 
