@@ -15,10 +15,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+JinghanHe;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things!;)](https://git.io/typing-svg)
 
 <!-- SKILS -->
-<center>
+<p align="center">
   <img src="assets/about_me.gif" alt="About Me" style="width:50%; height:auto;" />
   <p><strong>About Me</strong></p>
-</center>
+</p>
 
 
 
@@ -92,7 +92,7 @@ counting of visitors to this page in this section started from May 1, 2024
 
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe" alt="JinghanHe" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe&theme=monokai" alt="JinghanHe" /></a>
 </p>
 
 ![](assets/down.svg)
