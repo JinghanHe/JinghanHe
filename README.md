@@ -41,7 +41,9 @@
 </p>
 
 <!-- Stats -->
+<p align="center">
 <img align="center" src="https://streak-stats.demolab.com/?user=JinghanHe&theme=dark"/>
+</p>
 
 <!-- Skils -->
 | Property              | Data                                                         |
