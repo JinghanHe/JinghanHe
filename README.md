@@ -1,7 +1,10 @@
 ![Up](assets/up.svg)
 
 <!-- Profile Count -->
-
+<p align="center"><strong>Profile Count</strong></p>
+<p align="center">
+	<img src="https://profile-counter.glitch.me/JinghanHe/count.svg">
+</p>
 
 <!-- Icons -->
 <p align="center">
