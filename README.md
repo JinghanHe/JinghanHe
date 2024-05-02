@@ -11,7 +11,6 @@
 	<a href="https://github.com/JinghanHe/JinghanHe"><img src="https://img.shields.io/badge/Status-learning-brightgreen.svg"></a>
 	<a href="https://github.com/JinghanHe/JinghanHe/stargazers"><img src="https://img.shields.io/github/stars/JinghanHe/JinghanHe.svg?logo=github"></a>
 	<a href="https://github.com/JinghanHe/JinghanHe/network/members"><img src="https://img.shields.io/github/forks/JinghanHe/JinghanHe.svg?color=blue&logo=github"></a>
-	<img src="https://komarev.com/ghpvc/?username=JinghanHe"/>
 </p>
 
 <!-- Header -->
@@ -87,9 +86,9 @@
 </p>
 -->
 <p align="center" style="margin-bottom: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=JinghanHe&theme=monokai&hide_border=true&area=true" />
-  </a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+		<img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=JinghanHe&theme=monokai&hide_border=true&area=true" />
+	</a>
 </p>
 
 <!-- Increased vertical space -->
