@@ -56,15 +56,15 @@
 <!-- Star History -->
 <p align="center">
 	<img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date"/>(https://star-history.com/#JinghanHe/JinghanHe&Date)
-[![Star History Chart](https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date)](https://star-history.com/#JinghanHe/JinghanHe&Date)
 </p>
 
 <!-- Trophy -->
 <div align="center">
-<strong>Github Profile Trophy</strong>
+	<strong>Github Profile Trophy</strong>
 </div>
+
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe&theme=monokai" alt="JinghanHe" /></a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe&theme=monokai" alt="JinghanHe" /></a>
 </p>
 
 <!-- License -->
