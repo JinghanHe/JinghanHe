@@ -63,7 +63,13 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe&theme=monokai" alt="JinghanHe" /></a>
 </p>
 
+<!-- Increased vertical space -->
+<br>
+
 <!-- Skils -->
+<p align="center"> 
+	<strong>My Skils</strong>
+</p>
 | Property              | Data                                                         |
 | --------------------- | ------------------------------------------------------------ |
 | **Language / IDE**    | ![JDK Badge](https://img.shields.io/badge/-OpenJDK-3776AB?style=flat&logo=openjdk&logoColor=white)  ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-3776AB?style=flat&logo=intellijidea&logoColor=white)  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  ![PyCharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=PyCharm&logoColor=white)  ![JavaScript Badge](https://img.shields.io/badge/-javascript-4B4B77?style=flat&logo=javascript&logoColor=white)  ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  [![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)  ![DataGrip Badge](https://img.shields.io/badge/-DataGrip-3776AB?style=flat&logo=datagrip&logoColor=white)  ![Shell](https://img.shields.io/badge/-Shell-FFD500?style=flat&logo=shell&logoColor=white)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GnuBash&logoColor=white) |
