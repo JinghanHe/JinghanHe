@@ -37,6 +37,7 @@
 </div>
 
 <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
 </div>
@@ -66,10 +67,6 @@
 <p align="center">
 	<a href="[https://github.com/ryo-ma/github-profile-trophy](https://star-history.com/#JinghanHe/JinghanHe&Date)"><img align="center" src="https://api.star-history.com/svg?repos=JinghanHe/JinghanHe&type=Date"/></a>
 </p>
-
-<!-- Wrap -->
-<p align="center"></p>
-<p align="center"></p>
 
 <!-- License -->
 <p align="center">
