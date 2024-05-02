@@ -92,7 +92,7 @@
 
 <!-- License -->
 <p align="center">
-  <a href="https://github.com/JinghanHe/JinghanHe/blob/main/LICENSE">
+  <a href="https://github.com/JinghanHe/LICENSE">
     <strong>MIT LICENSE</strong>
   </a>
 </p>
