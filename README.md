@@ -91,6 +91,8 @@
 <br>
 
 <!-- License -->
-<div style="text-align: center;"><a href="LICENSE"><strong>MIT license</strong></a></div>
+<p align="center">
+	<a href="LICENSE"><strong>MIT license</strong></a>
+</p>
 
 ![Down](assets/down.svg)
