@@ -59,13 +59,9 @@
 </p>
 
 <!-- Trophy -->
-<div align="center">
+<p align="center"> 
 	<strong>Github Profile Trophy</strong>
-</div>
-
-<div align="center">
-	<strong></strong>
-</div>
+</p>
 
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe&theme=monokai" alt="JinghanHe" /></a>
