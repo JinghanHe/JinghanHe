@@ -36,9 +36,9 @@
 </p>
 
 <!-- Trcker -->
-<p align="center">
+<div align="center">
 	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=EB1F6A&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+there%2C+I+am+JinghanHe!;Welcome+to+my+GitHub+profile!;Always+learning+new+things!)](https://git.io/typing-svg)
-</p>
+</div>
 
 <!-- Most Used Languages -->
 <div align="center">
