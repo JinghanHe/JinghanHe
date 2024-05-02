@@ -37,9 +37,8 @@
 </div>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
+	<img   align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
 </div>
 
 <!-- Stats -->
