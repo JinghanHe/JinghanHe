@@ -50,6 +50,7 @@
 <!-- Stats -->
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JinghanHe&theme=monokai" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JinghanHe&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Increased vertical space -->
