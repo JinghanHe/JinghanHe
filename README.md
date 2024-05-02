@@ -86,6 +86,11 @@
   </a>
 </p>
 -->
+<p align="center" style="margin-bottom: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=JinghanHe&theme=monokai&hide_border=true&area=true" />
+  </a>
+</p>
 
 <!-- Increased vertical space -->
 <br>
