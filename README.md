@@ -11,6 +11,7 @@
 	<a href="https://github.com/JinghanHe/JinghanHe"><img src="https://img.shields.io/badge/Status-learning-brightgreen.svg"></a>
 	<a href="https://github.com/JinghanHe/JinghanHe/stargazers"><img src="https://img.shields.io/github/stars/JinghanHe/JinghanHe.svg?logo=github"></a>
 	<a href="https://github.com/JinghanHe/JinghanHe/network/members"><img src="https://img.shields.io/github/forks/JinghanHe/JinghanHe.svg?color=blue&logo=github"></a>
+	<img src="https://komarev.com/ghpvc/?username=JinghanHe")
 </p>
 
 <!-- Header -->
