@@ -31,16 +31,14 @@
 </p>
 
 <!-- Most Used Languages -->
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most Used Languages" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most Used Languages" />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=dracula&langs_count=5&layout=compact&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+</div>
 
 <!-- GitHub Stats -->
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
-</p>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github&custom_title=JinghanHe's GitHub Stats" />
+</div>
 
 <!-- Stats -->
 <p align="center">
