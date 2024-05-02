@@ -38,7 +38,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-	<img   align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github"/>
 </div>
 
 <!-- Stats -->
