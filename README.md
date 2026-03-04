@@ -40,11 +40,6 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2024&color=EB1F6A&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I+am+JinghanHe!;Welcome+to+my+GitHub+profile!;Always+learning+new+things!;Let's+make+progress+together!" alt="Typing SVG" /></a>
 </p>
 
-<!-- Most Used Languages -->
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinghanHe&locale=en&line_height=33&theme=monokai&langs_count=5&layout=compact&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-</div>
-
 <!-- Increased vertical space -->
 <br>
 
