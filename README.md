@@ -64,14 +64,6 @@
 <!-- Increased vertical space -->
 <br>
 
-<!-- Trophy -->
-<p align="center"> 
-	<strong>Github Profile Trophy</strong>
-</p>
-<p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinghanHe&theme=monokai" alt="JinghanHe" /></a>
-</p>
-
 <!-- Increased vertical space -->
 <br>
 
