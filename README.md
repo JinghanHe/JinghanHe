@@ -43,14 +43,6 @@
 <!-- Increased vertical space -->
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=JinghanHe&locale=en&line_height=33&show_icons=true&hide=&theme=monokai&rank_icon=github"/>
-</div>
-
-<!-- Increased vertical space -->
-<br>
-
 <!-- Skils -->
 <p align="center"> 
 	<strong>My Skils</strong>
