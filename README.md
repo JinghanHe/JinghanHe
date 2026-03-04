@@ -56,17 +56,6 @@
 <!-- Increased vertical space -->
 <br>
 
-<!-- Stats -->
-<p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JinghanHe&theme=monokai" alt="GitHub Streak" /></a>
-</p>
-
-<!-- Increased vertical space -->
-<br>
-
-<!-- Increased vertical space -->
-<br>
-
 <!-- Skils -->
 <p align="center"> 
 	<strong>My Skils</strong>
